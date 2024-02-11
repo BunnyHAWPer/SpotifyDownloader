@@ -7,7 +7,7 @@ A Django project that downloads Spotify playlists or tracks by URL.
 1) Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voice-typing-bot.git
+   https://github.com/BunnyHAWPer/SpotifyDownloader.git
 
 2) Run the following command to install the required modules:
 
