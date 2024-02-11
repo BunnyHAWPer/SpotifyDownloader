@@ -4,16 +4,22 @@ A Django project that downloads Spotify playlists or tracks by URL.
 
 ## Installation
 
-1. Run the following command to install the required modules:
+1) Clone the repository:
 
-```bash
-pip install -r requirements.txt
+   ```bash
+   git clone https://github.com/your-username/voice-typing-bot.git
 
+2) Run the following command to install the required modules:
 
+   ```bash
+   pip install -r requirements.txt
+   
+3) After installing the modules, execute the following command to download FFmpeg:
+   ```bash
+   spotdl --download-ffmpeg
 
-2. After installing the modules, execute the following command to download FFmpeg:
-````bash
-spotdl --download-ffmpeg
-
+4) To start the server
+   ```bash
+   python manage.py runserver
 
  
