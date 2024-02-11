@@ -6,6 +6,10 @@ A django project that downloads spotify playlist or tracks by url
 ```bash
 pip install -r requirements.txt
 
+
+
+
 2) And then run this command
+
 ```bash
 spotdl --download-ffmpeg
