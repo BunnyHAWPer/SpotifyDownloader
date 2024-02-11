@@ -1,12 +1,19 @@
 # SpotifyDownloader
 
-A django project that downloads spotify playlist or tracks by url 
+A Django project that downloads Spotify playlists or tracks by URL.
 
-1) Run this command to install the modules
-  ```bash
-    pip install -r requirements.txt
+## Installation
 
-2) And then run this command
+1. Run the following command to install the required modules:
 
-  ```bash
-  spotdl --download-ffmpeg
+```bash
+pip install -r requirements.txt
+
+
+
+2. After installing the modules, execute the following command to download FFmpeg:
+````bash
+spotdl --download-ffmpeg
+
+
+ 
